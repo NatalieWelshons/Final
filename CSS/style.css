@@ -1,0 +1,114 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    width: 335px;
+    height: 41px;
+    padding-bottom: 13px;
+    font-family: sans-serif;
+    font-size: 35.14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    margin-top: 85px;
+    
+  }
+  .divider {
+    width: 335px;
+    height: 1px;
+    background-color: #c6c6c6;
+  }
+
+  .second-title {
+    display: flex;
+    width: 339px;
+    height: auto;
+    align-items: baseline;
+    padding-top: 13px;
+    justify-content: left;
+
+  }
+
+  h2 {
+    width: 232px;
+    height: 24px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    display:inline-block !important;
+    float: left;
+  }
+  h3 {
+    width: 45px;
+    height: 16px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right !important;
+    color: #7526c9;
+    display:inline-block !important;
+    float: right !important;
+    
+    
+  }
+  .Rectangle-Big {
+    width: 157px;
+    height: 157px; 
+    margin: 0 0 6px;
+    border-radius: 4px;
+    background-color: #c4c4c4;
+    margin-right: 15px;
+  }
+  h4 {
+    width: 101px;
+    height: 21px;
+    margin: 6px 56px 0 0;
+    font-family: 'San Francisco';
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+  }
+  .Podcast-Network {
+    width: 104px;
+    height: 17px;
+    margin: 184px 53px 0 0;
+    font-family: 'San Francisco';
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #767676;
+  }
+
